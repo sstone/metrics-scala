@@ -1,4 +1,4 @@
 metrics-scala
 =============
 
-(updated) clone of codahale's scala wrapper for his great metrics library
+clone of codahale's scala wrapper for his great metrics library, with minor updates for scala 2.10
